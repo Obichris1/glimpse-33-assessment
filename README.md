@@ -26,7 +26,8 @@ A modern infinite-scroll feed application built with Next.js, React Query, and M
 
 ## Live Demo
 
-[View deployed application on Vercel](https://your-app-name.vercel.app)
+
+Experience the app: [https://glimpse-33-assessment.vercel.app/](https://glimpse-33-assessment.vercel.app/)
 
 ## Features
 
@@ -60,5 +61,6 @@ A modern infinite-scroll feed application built with Next.js, React Query, and M
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Obichris1/glimpse-33-feed-app.git
-   cd your-repo-name
+   git clone https://github.com/Obichris1/glimpse-33-assessment.git
+   cd glimpse-33-assessment
+   npm install
