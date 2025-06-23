@@ -60,5 +60,5 @@ A modern infinite-scroll feed application built with Next.js, React Query, and M
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Obichris1/glimpse-33-feed-app.git
    cd your-repo-name
